@@ -38,6 +38,6 @@ Se utiliza un modelo de red neuronal convolucional básico para el entrenamiento
 <br>
 <img src="https://github.com/sramirezaraya/deteccion-mascarilla/blob/main/loss.png">
 
-## Resultados
+## Resultados en el conjunto de test
 
 <img src="https://github.com/sramirezaraya/deteccion-mascarilla/blob/main/confusion.PNG">
